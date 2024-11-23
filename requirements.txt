@@ -1,0 +1,6 @@
+Libraries used
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Scikit-learn
+5. Scipy
